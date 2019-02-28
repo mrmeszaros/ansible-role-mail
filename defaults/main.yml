@@ -4,6 +4,7 @@
 # Security config
 mail_ssl: no
 mail_spf: no
+mail_dmarc: no
 
 # Database config.
 mail_db_user: rainloop
