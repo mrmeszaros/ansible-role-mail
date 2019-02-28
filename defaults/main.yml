@@ -1,6 +1,9 @@
 ---
 # defaults file for ansible-role-mail/
 
+# SSL config
+mail_ssl: no
+
 # Database config.
 mail_db_user: rainloop
 mail_db_password: rainloop
